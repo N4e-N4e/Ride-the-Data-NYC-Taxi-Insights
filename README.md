@@ -23,7 +23,7 @@ Cleaning and quick analysis: Taxi-Data Cleaning
 
 Testing: Testing-Grounds
 
-Clean data file: Taxi_data_8310.csv (170MB)
+Clean data file: Taxi_data_8310.csv (Kindly use the Hugging Face repository link provided to use the dataset)
 
 The due to size of the data, there is a small delay (few seconds) only when opening up the app.
 
