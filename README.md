@@ -38,4 +38,4 @@ The link/work can be only be accessed by users associated with Mizzou since the 
 
 ------------------------------------------
 
-In the future, I plan to host the project on my local server so that everyone can access the app. 
+In the future, I plan to host the project outside the mizzou server so that everyone can access the app. 
